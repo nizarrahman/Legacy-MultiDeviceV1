@@ -39,7 +39,7 @@ let wibb = `${wktuwib}`
 let info = `
 *${ucapann()}:${conn.getName(m.sender)}*
 sɪʟᴀʜᴋᴀɴ ᴘɪʟɪʜ ʟɪsᴛᴀɴɪᴍᴇ ᴅɪ ʙᴀᴡᴀʜ ɪɴɪʜ ᴋᴀᴋ
-Nomor Developer : wa.me/12136852040
+Nomor Developer : wa.me/6281386945391
 Nomor Owner Bot : wa.me/${nomorown}`
   /*    {title: "🔖 HEMAT", rowId: '.order *Paket:* HEMAT • Sewa', description: 'PRICE: ' + sh + 'k (1 minggu)' },
 	{title: "🔖 NORMAL", rowId: '.order *Paket:* NORMAL • Sewa', description: 'PRICE: ' + sn + 'k (1 bulan)' },
