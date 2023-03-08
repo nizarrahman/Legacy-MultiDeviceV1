@@ -9,7 +9,7 @@ let handler = async (m, { conn, usedPrefix }) => {
       text: `
 Maaf Kak Jika Kami Merepotkan Kakak, Tapi Tolong Bantu Developer Bot Agar Bisa Mengembangkan Fitur² Baru Dengan Cara Membantu Donasi Seikhlasnya>.<
 
-Donasi Bisa Lewat Sini: https://saweria.co/RullZY`,
+Donasi Bisa Lewat Sini: https://saweria.co/NizarRahman`,
       contextInfo: {
       externalAdReply: {
       showAdAttribution: true
