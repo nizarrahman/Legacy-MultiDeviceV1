@@ -36,16 +36,16 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/khoirul36_'
-global.tautanwa = 'https://wa.me/message/'
-global.sgh = 'https://github.com/khrlmstfa' //github
+global.sig = 'https://instagram.com/nizarrrahman.f_'
+global.tautanwa = 'https://wa.me/6281386945391'
+global.sgh = 'https://github.com/nizarrahman' //github
 global.sgc = '' //group whatsapp
 global.sdc = '-' //discord
-global.syt = 'https://youtube.com/channel/UC1oSMQCd3XKVxYwSh4RE2Nw'
-global.sfb = 'https://www.facebook.com/' // facebook
-global.snh = 'https://chat.whatsapp.com/'
+global.syt = '-'
+global.sfb = '-' // facebook
+global.snh = '-'
 global.media = 'https://telegra.ph/file/08ae4464dfd3cc051a230.jpg'
-global.wame = 'https://wa.me/message/'
+global.wame = 'https://wa.me/6281386945391'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
 ['62', '𝕽𝖚𝖑𝖑  ꩜', true]
@@ -59,9 +59,9 @@ global.nomorown2 = ''
 global.nomorwa = '0'
 global.nameown = '𝕽𝖚𝖑𝖑'
 global.gcname = '𝗟𝗲𝗴𝗮𝗰𝘆 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
-global.author = 'Dibuat Oleh 𝕽𝖚𝖑𝖑'
-global.namebot = '𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗'
-global.packname2 = '𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗 ꩜'
+global.author = 'Dibuat Oleh 𝙉𝙞𝙯𝙖𝙧 𝙍𝙖𝙝𝙢𝙖𝙣'
+global.namebot = '𝘽𝙤𝙩 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡 𝙉𝙖𝙞 𝘿𝙚𝙫'
+global.packname2 = '𝘽𝙤𝙩 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡 𝙉𝙖𝙞 𝘿𝙚𝙫 ꩜'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ API AI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺ 
 /*Lolhuman*/
@@ -89,15 +89,15 @@ HIRO
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.nameown1= ' ꩜'
-global.nameown2 = '  ꩜'
+global.nameown1= ' 𝙉𝙞𝙯𝙖𝙧 𝙍𝙖𝙝𝙢𝙖𝙣 ꩜'
+global.nameown2 = ' 𝙉𝙞𝙯𝙖𝙧 𝙍𝙖𝙝𝙢𝙖𝙣 ꩜'
 
 /*============== STAFF ==============*/
 //kosong
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝕽𝖚𝖑𝖑'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝙉𝙞𝙯𝙖𝙧 𝙍𝙖𝙝𝙢𝙖𝙣'
 global.wm2 = '𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗'
 global.packname = wm
 global.watermark = wm
@@ -105,8 +105,8 @@ global.titlebot = namebot
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.stickpack = '/𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗'
-global.stickauth = `BOT By ©𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗`
+global.stickpack = '𝘽𝙤𝙩 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡 𝙉𝙖𝙞 𝘿𝙚𝙫'
+global.stickauth = `BOT By © 𝘽𝙤𝙩 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡 𝙉𝙖𝙞 𝘿𝙚𝙫`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TIME INFO  ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -118,27 +118,27 @@ global.wibb = `${wktuwib}`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ INTRO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.botintro = 'Hallo, Saya 𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗 akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh  *𝕽𝖚𝖑𝖑* Saya di rilis pada tanggal\n🗓 ️_28/02/2023_'
+global.botintro = 'Hallo, Saya 𝘽𝙤𝙩 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡 𝙉𝙖𝙞 𝘿𝙚𝙫 akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh 𝙉𝙞𝙯𝙖𝙧 𝙍𝙖𝙝𝙢𝙖𝙣 Saya di rilis pada tanggal\n🗓 ️_09/03/2023_'
 global.intro = 'https://telegra.ph/file/08ae4464dfd3cc051a230.jpg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.Linkgc = 'https://chat.whatsapp.com/Jvhe5lK67Kj0wWmWcgZZ4L'
+global.Linkgc = '-'
 global.lynk = '-'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.pdana = '' //pasang no lo sinih buat donasi 
 global.povo = '-' 
-global.pgopay = '-'
+global.pgopay = '081386945391'
 global.plinkaja = '-' //link aja
-global.ppulsa = ''
+global.ppulsa = '081386945391'
 global.ppulsa2 = ''
 global.psaweria = '-'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.ListHargaSewa = 'Tinggal Pc Aja Ownernya Free'
+global.ListHargaSewa = 'Tinggal Pc Aja Ownernya Gweh'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ UPDATE TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -364,9 +364,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://telegra.ph/file/27accc6de818f8bd2eda8.jpg'
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/khoirul36_"
+global.urlnya = "https://www.instagram.com/nizarrrahman.f__"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '62xxxx' //nowa mu
+global.phn = '6281386945391' //nowa mu
 
 global.thumbdoc = 'https://telegra.ph/file/896867949807ddbecbe81.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
