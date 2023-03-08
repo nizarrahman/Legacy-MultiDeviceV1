@@ -87,6 +87,12 @@ ${usedPrefix + command} attp teks
 • waifu
 • yeet
 • yuri
+
+
+
+• Website Store dan topup :
+https://store.naibot.my.id
+https://topup.naibot.my.id
 `
 conn.sendButton(m.chat, caption, wm, null, [
                 ['Menu', `${usedPrefix}menu`]
